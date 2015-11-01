@@ -171,6 +171,7 @@
 		5163CD1319EA4CF9009C1708 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = WinDev;
 				TargetAttributes = {
@@ -424,6 +425,7 @@
 				5163CD3C19EA4CF9009C1708 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5163CD3D19EA4CF9009C1708 /* Build configuration list for PBXNativeTarget "PostcardTests" */ = {
 			isa = XCConfigurationList;
@@ -432,6 +434,7 @@
 				5163CD3F19EA4CF9009C1708 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
